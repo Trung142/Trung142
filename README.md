@@ -1,5 +1,3 @@
-
-
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/Trung142" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
@@ -14,8 +12,6 @@
 <br />
 ## 📫 How to reach me:
 <br/>
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012113442229) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtu.be/Fu7HiHDffD8?si=5-oPWS4-7LT4ny5M) 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100012113442229" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
