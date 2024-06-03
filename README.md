@@ -1,4 +1,4 @@
-<img align="right" width="64" src="https://img.icons8.com/fluent/48/000000/github.png" />
+<img align="right" width="64" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" />
 <h2 align="center">Hi 👋, I'm Trung</h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
